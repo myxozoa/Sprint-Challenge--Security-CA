@@ -9,8 +9,8 @@ computer/VM running only open source software, set up a "sandboxed" environment
 for web browsing that doesn't save state, etc.
 
 Use the practices and approaches we learned about this week - this means pick
-a suitably long *passphrase* to protect your password manager, and to think
-about what your threat model is and what services you want to trust with what
+a suitably long *passphrase* to protect your password manager, and think about
+what your threat model is and what services you want to trust with what
 information. Some general tips:
 
 - You are a software developer, which means you're a high value target (you are
@@ -18,7 +18,7 @@ a potential attack vector to anyone who runs your code)
 - Unless you're working on something controversial for the political regime you
 reside in, the NSA/Mossad/KGB/MI5/etc. are probably not your adversaries
 - The sorts of threats you *should* worry about - common criminals/organized
-crime, botnets, extortion (stealing your files, DDoS-ing your service)
+crime, botnets, malware, extortion (stealing your files, DDoS-ing your service)
 - For deciding whether or not to trust a service, consider history, reputation,
 and incentives, as well as what countries it operates in (which will impact the
 laws it is subject to, both in terms of disclosure and potential damages)
@@ -35,6 +35,6 @@ Some resources/goals:
 
 After you do some of the above, write 1-2 paragraphs summarizing what you did
 (remember, a good security setup doesn't depend on security through obscurity,
-so it should be safe to talk about it as long as you don't actually share actual
+so it should be safe to talk about it as long as you don't share actual
 passwords/secrets). As a stretch goal, write a blog post about your security setup
-summarizing what you’ve learned and tips you have for others.
+describing what you’ve learned and tips you have for others.
