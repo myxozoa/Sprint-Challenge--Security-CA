@@ -32,11 +32,12 @@ Some resources/goals:
 - [Creating the perfect GPG keypair](https://alexcabal.com/creating-the-perfect-gpg-keypair/) - more complicated, for those who want finer control
 - [Keybase](https://keybase.io/) - a way to share/certify public keys (also offers encrypted chat, file storage, etc.)
 - [Yubico](https://www.yubico.com/) - affordable hardware security devices for two-factor/crypto
-- [How to install Ubuntu in VirtualBox](https://linus.nci.nih.gov/bdge/installUbuntu.html)
-- [Information about Sandboxes](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
+- [How to install Ubuntu in VirtualBox](https://linus.nci.nih.gov/bdge/installUbuntu.html) - usable secure popular distribution of Linux
+- [Kali Linux](https://www.kali.org/) - security-specific (penetration testing) distribution of Linux, includes VM images for download
+- [Information about Sandboxes](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - general starting point for learning about sandboxes to contain an application
 
 After you do some of the above, write 1-2 paragraphs summarizing what you did
 (remember, a good security setup doesn't depend on security through obscurity,
 so it should be safe to talk about it as long as you don't share actual
-passwords/secrets). As a stretch goal, write a blog post about your security setup
-describing what you’ve learned and tips you have for others.
+passwords/secrets). As a stretch goal, write a blog post about your security
+setup describing what you’ve learned and tips you have for others.
