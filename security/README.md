@@ -28,7 +28,7 @@ Some resources/goals:
 - [Alternatives to KeePass](https://alternativeto.net/software/keepass/)
 - [Two Factor Auth](https://twofactorauth.org/)
 - [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
-- [Keybase](https://keybase.io/) - a way to share/certify public keys
+- [Keybase](https://keybase.io/) - a way to share/certify public keys (also offers encrypted chat, file storage, etc.)
 - [Yubico](https://www.yubico.com/) - affordable hardware security devices for two-factor/crypto
 - [How to install Ubuntu in VirtualBox](https://linus.nci.nih.gov/bdge/installUbuntu.html)
 - [Information about Sandboxes](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
