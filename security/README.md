@@ -25,9 +25,9 @@ laws it is subject to, both in terms of disclosure and potential damages)
 
 Some resources/goals:
 - [KeePass](https://en.wikipedia.org/wiki/KeePass) - open-source password manager
-- [Alternatives to KeePass](https://alternativeto.net/software/keepass/)
-- [Two Factor Auth](https://twofactorauth.org/)
-- [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
+- [Alternatives to KeePass](https://alternativeto.net/software/keepass/) - cloud, desktop, etc., consider your personal security/convenience tradeoff
+- [Two Factor Auth](https://twofactorauth.org/) - list of services that support 2 factor authentication
+- [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) - more convenient (for command line) *and* secure than passwords
 - [Adding GPG to your GitHub account](https://help.github.com/articles/generating-a-new-gpg-key/) - simple GPG setup that will let you sign commits
 - [Creating the perfect GPG keypair](https://alexcabal.com/creating-the-perfect-gpg-keypair/) - more complicated, for those who want finer control
 - [Keybase](https://keybase.io/) - a way to share/certify public keys (also offers encrypted chat, file storage, etc.)
