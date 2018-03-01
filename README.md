@@ -2,7 +2,8 @@
 
 ## Part 1: Security and Encryption
 
-**TODO**
+* [Improve your practical personal security](security/)
+
 
 ## Part 2: Cellular Automata
 
