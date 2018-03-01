@@ -3,7 +3,7 @@
 Do something to improve your personal security setup - if you’re not using a
 password manager, set one up. If you’re doing that, then set up two factor for
 some of your accounts. If you’re doing that, then set up proper SSH keypairs for
-services that support it (e.g. GitHub). And you can keep going - set up a PGP
+services that support it (e.g. GitHub). And you can keep going - set up a GPG
 keypair, consider simple dedicated hardware for second factor, set up a trusted
 computer/VM running only open source software, set up a "sandboxed" environment
 for web browsing that doesn't save state, etc.
@@ -28,6 +28,8 @@ Some resources/goals:
 - [Alternatives to KeePass](https://alternativeto.net/software/keepass/)
 - [Two Factor Auth](https://twofactorauth.org/)
 - [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
+- [Adding GPG to your GitHub account](https://help.github.com/articles/generating-a-new-gpg-key/) - simple GPG setup that will let you sign commits
+- [Creating the perfect GPG keypair](https://alexcabal.com/creating-the-perfect-gpg-keypair/) - more complicated, for those who want finer control
 - [Keybase](https://keybase.io/) - a way to share/certify public keys (also offers encrypted chat, file storage, etc.)
 - [Yubico](https://www.yubico.com/) - affordable hardware security devices for two-factor/crypto
 - [How to install Ubuntu in VirtualBox](https://linus.nci.nih.gov/bdge/installUbuntu.html)
@@ -38,3 +40,6 @@ After you do some of the above, write 1-2 paragraphs summarizing what you did
 so it should be safe to talk about it as long as you don't share actual
 passwords/secrets). As a stretch goal, write a blog post about your security setup
 describing what you’ve learned and tips you have for others.
+## Part 2: Cellular Automata
+
+* [Create a 1D Cellular Automaton](1d-life/)
