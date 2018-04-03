@@ -6,6 +6,10 @@ personal security, and again write up what you've done (just to document it, but
 a good stretch goal is to make your writing even more polished and publish it as
 a blog post).
 
+For both of these, turn it in by commiting a Markdown file with your writing to
+your fork of this repository. If you publish elsewhere, please share the link as
+well.
+
 
 # Part 1 - Understand and Communicate a Threat Model
 
@@ -19,8 +23,9 @@ you should consider (and a few examples of each) include:
 - Mitigations (what can be done to reduce the risk, e.g. 2-factor auth, encryption)
 
 Write a summary of the overall situation as if you were going to send it as a
-professional email to explain it to a coworker. Please write 1-2 paragraphs
-length, addressing the above concepts in a concise fashion.
+professional email to explain it to a coworker. Please turn in a file
+`ThreatModel.md` with 1-2 paragraphs addressing the above concepts in a concise
+fashion.
 
 
 # Part 2 - Practical Security
@@ -61,8 +66,9 @@ Some resources/goals:
 - [Kali Linux](https://www.kali.org/) - security-specific (penetration testing) distribution of Linux, includes VM images for download
 - [Information about Sandboxes](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) - general starting point for learning about sandboxes to contain an application
 
-After you do some of the above, write 1-2 paragraphs summarizing what you did
-(remember, a good security setup doesn't depend on security through obscurity,
-so it should be safe to talk about it as long as you don't share actual
-passwords/secrets). As a stretch goal, write a blog post about your security
-setup describing what you’ve learned and tips you have for others.
+After you do some of the above, turn in a file `PracticalSecurity.md` with 1-2
+paragraphs summarizing what you did (remember, a good security setup doesn't
+depend on security through obscurity, so it should be safe to talk about it as
+long as you don't share actual passwords/secrets). As a stretch goal, write a
+blog post about your security setup describing what you’ve learned and tips you
+have for others.
